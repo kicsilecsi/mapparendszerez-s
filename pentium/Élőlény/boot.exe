@@ -1,0 +1,7 @@
+[boot loader]
+timeout=30
+default=multi(0)disk(0)rdisk(0)partition(2)\WINNT
+[operating systems]
+multi(0)disk(0)rdisk(0)partition(2)\WINNT="Windows NT Workstation 4.00-s verzi¢" 
+multi(0)disk(0)rdisk(0)partition(2)\WINNT="Windows NT Workstation 4.00-s verzi¢ [VGA Åzemm¢d]" /basevideo /sos
+C:\="Microsoft Windows" 
